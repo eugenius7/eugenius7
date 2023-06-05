@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenius7
-- 👀 I’m interested in the Catholic Church.
+- 👀 I’m interested in the Catholic Church & God: https://www.vaticancatholic.com.
 - 🌱 I’m currently learning ASM, C/C++, HolyC, Pascal, Go.
 - 💞️ I’m looking to collaborate on TempleOS.
 - 📫 How to reach me: mail: pro.maximilien@protonmail.com

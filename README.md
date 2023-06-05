@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Catholic Church & God: https://www.vaticancatholic.com.
 - 🌱 I’m currently learning ASM, C/C++, HolyC, Pascal, Go.
 - 💞️ I’m looking to collaborate on TempleOS.
-- 📫 How to reach me: mail: pro.maximilien@protonmail.com
+- 📫 How to reach me: e-mail: pro.maximilien@protonmail.com
 
 <!---
 eugenius7/eugenius7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

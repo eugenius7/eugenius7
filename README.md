@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenius7
 - 👀 I’m interested in the Catholic Church & God: https://www.vaticancatholic.com.
-- 🌱 I’m currently learning ASM, C/C++, HolyC, Pascal & Go.
+- 🌱 I’m currently learning Assembly, HolyC, C/C++, Pascal & Go.
 - 💞️ I’m looking to collaborate on TempleOS.
 - 📫 How to reach me: e-mail: pro.maximilien@protonmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenius7
 - 👀 I’m interested in the Catholic Church & God: https://www.vaticancatholic.com.
-- 🌱 I’m currently learning ASM, HolyC, C/C++, Pascal and Go.
+- 🌱 I’m currently learning functional programming and imperative programming.
 - 💞️ I’m looking to collaborate on TempleOS.
 
 <!---

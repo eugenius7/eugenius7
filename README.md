@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugenius7
-- 👀 I’m interested in the Catholic Church & God: https://www.vaticancatholic.com.
+- 👀 I’m interested in the Traditional Catholic religion: https://www.vaticancatholic.com.
 - 🌱 I’m currently learning HolyC.
 - 💞️ I’m looking to collaborate on TempleOS.
 
